@@ -6,3 +6,4 @@
   3. Growth minded person will be inspired by the success of others.
   
   
+Information sourced from (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
