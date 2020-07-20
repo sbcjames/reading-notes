@@ -1,6 +1,7 @@
 ## reading from the Coders Computer
 
 Notes:
+
 -all computers come with a text editor
 -make sure to have some enhancemenets for the editor (i.e. code completion, syntax highlighter, and code completion)
 -make sure to have correct file extention when saving.
