@@ -11,4 +11,6 @@
 
 - there is 147 predefined color names
 - color on a computer screen is a mixture of red, green, and blue
-- 
+- 3 ways to specify colors in css: RGB values, hex codes, and color names
+- can be changed with hue, saturation, and brightness
+- high contract for little things of important, medium for long reading -slightly easier to read
