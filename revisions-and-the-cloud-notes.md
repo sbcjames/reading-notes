@@ -1,4 +1,4 @@
-## Reading day two
+# Reading day two
 
 * Version control is like a bread crumb trail of what has changed in coding and when it was changed. can be local or on a master list for all that have changed it called a centralized version control.
 * To move excisting Git files to terminal us command git clone then the link
