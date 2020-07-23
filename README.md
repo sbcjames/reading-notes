@@ -1,4 +1,8 @@
-# reading-notes
+# James Swift
+
+Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 10 years in sunny southern California. So winters are hard for me here, I own so many jackets and use an umbrella - not a Seattle trait. I have never coded but very excited to learn as much as possible and have a great time doing it.
+
+## reading-notes
 
 Reading Notes for CodeFellows
 
