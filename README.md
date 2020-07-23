@@ -16,4 +16,4 @@ Reading Notes for CodeFellows
 - [Dynamic web pages with JavaScript](JavaScript.md)
 - [Computer Architecture and Logic]
 - [Programming with JaveScript](programming-with-JS.md)
-- [Class 8 Reading]
+- [Operators and Loops](Operators-and-Loops.md)
