@@ -1,14 +1,15 @@
-# Explain Growth Mindset
+# reading-notes
 
-  **Growth mindset is where you are focusing on next steps and not allowing yourself to give up.**
-  
-## Three main concepts
+Reading Notes for CodeFellows
 
-  1. Growth minded person will persist through any obstacles.
-  2. Growth minded person will struggle but will learn from the issues.
-  3. Growth minded person will be inspired by the success of others.
-  
- 
-Information sourced from [Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+## Table of Contents
 
-[<== Back to Main Readme](README.md)
+- [Markdown Reading](markdown.md)
+- [Coders Computer Reading](coders-computer.md)
+- [Revisions in the Cloud](revisions-and-the-cloud-notes.md)
+- [Structure web pages with HTML](HTML.md)
+- [Design web pages with CSS](reading-5.md)
+- [Dynamic web pages with JavaScript](JavaScript.md)
+- [Computer Architecture and Logic]
+- [Class 7 Reading]
+- [Class 8 Reading]
