@@ -4,7 +4,7 @@ Reading Notes for CodeFellows
 
 ## Table of Contents
 
-- [Markdown Reading](markdown.md)
+- [Markdown Reading](learning-markdown.md)
 - [Coders Computer Reading](coders-computer.md)
 - [Revisions in the Cloud](revisions-and-the-cloud-notes.md)
 - [Structure web pages with HTML](HTML.md)
