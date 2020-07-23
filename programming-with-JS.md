@@ -17,8 +17,8 @@
 - concatenation is joining together two or more strings to create one
 
 - functions let you group a series of statements together to perform a specific task
-- function declaration is when giving a name and then write the statements needed to acheive its task inside the curly brackets
-- call function you will need to write funtions name = ()
-- to send info out of a funtion you use return xzy;
+- function declaration is when giving a name and then write the statements needed to archeive its task inside the curly brackets
+- call function you will need to write functions name = ()
+- to send info out of a function you use return xzy;
 
 [<== Back to Main Readme](README.md)

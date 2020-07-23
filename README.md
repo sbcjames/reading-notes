@@ -15,5 +15,5 @@ Reading Notes for CodeFellows
 - [Design web pages with CSS](reading-5.md)
 - [Dynamic web pages with JavaScript](JavaScript.md)
 - [Computer Architecture and Logic]
-- [Programming with JaveScript] (programming-with-JS.md)
+- [Programming with JaveScript](programming-with-JS.md)
 - [Class 8 Reading]
