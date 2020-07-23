@@ -14,6 +14,6 @@ Reading Notes for CodeFellows
 - [Structure web pages with HTML](HTML.md)
 - [Design web pages with CSS](reading-5.md)
 - [Dynamic web pages with JavaScript](JavaScript.md)
-- [Computer Architecture and Logic]
+- [Computer Architecture and Logic](Computer-Architecture-and-Logic.md)
 - [Programming with JaveScript](programming-with-JS.md)
 - [Operators and Loops](Operators-and-Loops.md)
