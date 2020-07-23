@@ -14,3 +14,5 @@
 - 3 ways to specify colors in css: RGB values, hex codes, and color names
 - can be changed with hue, saturation, and brightness
 - high contract for little things of important, medium for long reading -slightly easier to read
+
+[<== Back to Main Readme](README.md)

@@ -10,3 +10,5 @@
   
  
 Information sourced from [Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+[<== Back to Main Readme](README.md)
