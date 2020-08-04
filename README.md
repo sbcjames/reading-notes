@@ -4,8 +4,8 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 
 ## Code 201 Reading Notes
 
-1. Reading #1
-2. Reading #2
+1. [Introductory HTML and JavaScript](class-01.md)
+2. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 3. Reading #3
 4. Reading #4
 5. Reading #5
