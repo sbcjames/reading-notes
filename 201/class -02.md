@@ -52,3 +52,5 @@ Reading Notes
 - ! logical not (operator takes a single Boolean value and inverts it)
 - if statement evaluates a condition if the ocndition evaluates to true, any statmetns in the subsequent code block are executed
 - else is the oposite of if statement
+
+[<== Back to Main Readme](README.md)
