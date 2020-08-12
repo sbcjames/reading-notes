@@ -7,11 +7,11 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 1. [Introductory HTML and JavaScript](class-01.md)
 2. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 3. [HTML Lists, CSS Boxes, JS Control Flow](class-3.md)
-4. (class-3.md)
-5. Reading #5
+4. [HTML Links, CSS Layout, JS Functions](class-4.md)
+5. [HTML Images; CSS Color & Text](class-5.md)
 6. Reading #6
-7. Reading #7
-8. Reading #8
+7. [Object-Oriented Programming, HTML Tables](class-7.md)
+8. [More CSS Layout](class-08.md)
 9. Reading #9
 10. Reading #10
 11. Reading #11
