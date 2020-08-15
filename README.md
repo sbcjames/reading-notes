@@ -12,7 +12,7 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 6. Reading #6
 7. [Object-Oriented Programming, HTML Tables](class-7.md)
 8. [More CSS Layout](class-08.md)
-9. Reading #9
+9. [Forms and Events](class-09.md)
 10. Reading #10
 11. Reading #11
 12. Reading #12
