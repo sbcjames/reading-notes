@@ -15,7 +15,7 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 9. [Forms and Events](class-09.md)
 10. Reading #10(class-10.md)
 11. Reading #11(class-11.md)
-12. Reading #12(class-12.md)
+12. [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 13. [Local Storage](class-13.md)
 14. Reading #14(class-14.md)
 15. Reading #15(class-15.md)
