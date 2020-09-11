@@ -2,6 +2,10 @@
 
 Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 10 years in sunny southern California. So winters are hard for me here, I own so many jackets and use an umbrella - not a Seattle trait. I have never coded but very excited to learn as much as possible and have a great time doing it.
 
+## Code 301 Reading Notes
+
+5. [Heroku Deployment](class-05)
+
 ## Code 201 Reading Notes
 
 1. [Introductory HTML and JavaScript](class-01.md)
