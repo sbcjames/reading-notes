@@ -32,13 +32,7 @@ Formula to identify proportions:
 
  Mobile First Approach - using styles targeted at smaller viewports as default for a website, then add as the viewport grows.
 
-### Flexible Media
-
-- Ability for images, videos and other media types to be scaleable, changing size as the viewport size changes.
-  - max-width property - Value of 100% to ensure any media will scale down.
-    - flexible embedded media - Utilizing absolute positioning of an embedded element in a parent element set at 100% width.
-
-## All About Floats
+ ## All About Floats
 
 Float is a CSS positioning property where images are set into the page allowing text to wrap around as needed.
 
@@ -51,10 +45,12 @@ There are four valid float property values:
 
 Clear Property - An element with this property will move itself down below the floated elements.
 
-Techniques for Clearing Floats:
 
-- The Empty Div Method - `<div style="clear: both;"></div>`
-  - The Overflow Method - Setting the overflow CSS property on a parent element.
-  - The Easy Clearing Method - Uses CSS pseudo selector `:after`:
+### Flexible Media
+
+- Ability for images, videos and other media types to be scaleable, changing size as the viewport size changes.
+  - max-width property - Value of 100% to ensure any media will scale down.
+    - flexible embedded media - Utilizing absolute positioning of an embedded element in a parent element set at 100% width.
+
 
 [<== Back to Main Readme](README.md)
