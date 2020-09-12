@@ -32,3 +32,5 @@ width() and height() methods get/set both properties of HTML elements
     <li>Learning code is quicker since it makes you speak it and write it, allows for quicker learning</li>
     <li>helps propare for job interviews, will possibly have to pair code to show they are able to code</li>
   </ul>
+
+  [<== Back to Main Readme](README.md)

@@ -56,3 +56,5 @@ Techniques for Clearing Floats:
 - The Empty Div Method - `<div style="clear: both;"></div>`
   - The Overflow Method - Setting the overflow CSS property on a parent element.
   - The Easy Clearing Method - Uses CSS pseudo selector `:after`:
+
+[<== Back to Main Readme](README.md)
