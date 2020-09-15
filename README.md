@@ -3,8 +3,13 @@
 Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 10 years in sunny southern California. So winters are hard for me here, I own so many jackets and use an umbrella - not a Seattle trait. I have never coded but very excited to learn as much as possible and have a great time doing it.
 
 ## Code 301 Reading Notes
-
-5. [Heroku Deployment](class-05)
+1. [Responsive Web Design](class-01.md)
+2. [jQuery](class-02.md)
+3. [Mustache and Flexbox](class-03.md)
+4. [Responsive Web Design and Regular Expressions](class-04.md)
+5. [Heroku Deployment](class-05.md)
+6. [Node.js](class-06.md)
+7. [REST - Representational State Transfer](class-07.md)
 
 ## Code 201 Reading Notes
 
