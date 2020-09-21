@@ -10,6 +10,8 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 5. [Heroku Deployment](class-05.md)
 6. [Node.js](class-06.md)
 7. [REST - Representational State Transfer](class-07.md)
+8. [SQL](class-08.md)
+11. [EJS](class-11.md)
 
 ## Code 201 Reading Notes
 
