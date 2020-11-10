@@ -4,6 +4,7 @@ Hello! Thank you for coming to my page. I am a Seattle native, but spent almost 
 
 ## Code 401 - Advanced Software Development
 1. []()
+1. [Testing and Modules](401/class-02.md)
 
 ## Code 301 Reading Notes
 1. [Responsive Web Design](class-01.md)
